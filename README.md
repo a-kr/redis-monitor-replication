@@ -5,7 +5,7 @@ Replicates stream of Redis commands from `MONITOR` output to another Redis insta
 
 Build:
 ```
-go build redis-monitor-replication.go
+go build
 ```
 
 Usage:
